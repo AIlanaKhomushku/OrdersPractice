@@ -31,7 +31,9 @@ https://github.com/AIlanaKhomushku/OrdersPractice.git
 Это хороший показатель для учебного проекта: покрыты основные сценарии и граничные случаи, включая исправление ошибки.
 
 <img width="1230" height="763" alt="image" src="https://github.com/user-attachments/assets/6e8806ab-5b38-4c76-9d59-b5eff6a4143b"/>
+
 <img width="262" height="84" alt="image" src="https://github.com/user-attachments/assets/dc08359d-9063-4191-87fb-fba3a0bb8b7a" />
 
+<img width="1270" height="762" alt="image" src="https://github.com/user-attachments/assets/82d64257-72b7-4d11-8c1c-004a013e6ab0" />
 
 
