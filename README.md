@@ -2,8 +2,7 @@
 
 Ссылка на репозиторий: 
 https://github.com/AIlanaKhomushku/OrdersPractice.git
-<img width="784" height="462" alt="image" src="https://github.com/user-attachments/assets/f387abd8-489f-42aa-ac1f-7c6cc2e3cf3b" />
-<img width="886" height="135" alt="image" src="https://github.com/user-attachments/assets/9e330d10-ba05-48aa-926b-862bc3f9c57f" />
+<img width="1314" height="609" alt="image" src="https://github.com/user-attachments/assets/6b908518-56f2-4a5f-96a0-fd6b57ad1489" />
 
 Что было сделано в рамках работы
 Выявлена и исправлена логическая ошибка в бизнес‑логике.
@@ -31,5 +30,8 @@ https://github.com/AIlanaKhomushku/OrdersPractice.git
 Покрытие строк — 89,6 %.
 Это хороший показатель для учебного проекта: покрыты основные сценарии и граничные случаи, включая исправление ошибки.
 
-<img width="1230" height="763" alt="image" src="https://github.com/user-attachments/assets/6e8806ab-5b38-4c76-9d59-b5eff6a4143b" 
-<img width="342" height="67" alt="image" src="https://github.com/user-attachments/assets/8f1fa6ae-5889-4f6a-a24a-550b9f521ab1" />
+<img width="1230" height="763" alt="image" src="https://github.com/user-attachments/assets/6e8806ab-5b38-4c76-9d59-b5eff6a4143b"/>
+<img width="262" height="84" alt="image" src="https://github.com/user-attachments/assets/dc08359d-9063-4191-87fb-fba3a0bb8b7a" />
+
+
+
