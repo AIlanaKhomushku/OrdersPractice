@@ -1,4 +1,4 @@
-<img width="1230" height="763" alt="image" src="https://github.com/user-attachments/assets/6e8806ab-5b38-4c76-9d59-b5eff6a4143b" />[![CI](https://github.com/AIlanaKhomushku/OrdersPractice/actions/workflows/ci.yml/badge.svg)](https://github.com/AIlanaKhomushku/OrdersPractice/actions/workflows/ci.yml)
+/>[![CI](https://github.com/AIlanaKhomushku/OrdersPractice/actions/workflows/ci.yml/badge.svg)](https://github.com/AIlanaKhomushku/OrdersPractice/actions/workflows/ci.yml)
 
 Ссылка на репозиторий: 
 https://github.com/AIlanaKhomushku/OrdersPractice.git
@@ -31,5 +31,5 @@ https://github.com/AIlanaKhomushku/OrdersPractice.git
 Покрытие строк — 89,6 %.
 Это хороший показатель для учебного проекта: покрыты основные сценарии и граничные случаи, включая исправление ошибки.
 
-<img width="1785" height="505" alt="image" src="https://github.com/user-attachments/assets/a6591b79-9379-43a0-8942-d85698a92bef" />
+<img width="1230" height="763" alt="image" src="https://github.com/user-attachments/assets/6e8806ab-5b38-4c76-9d59-b5eff6a4143b" 
 <img width="342" height="67" alt="image" src="https://github.com/user-attachments/assets/8f1fa6ae-5889-4f6a-a24a-550b9f521ab1" />
