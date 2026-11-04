@@ -1,4 +1,4 @@
-[![CI](https://github.com/Anastasiya-Evsyukova/OrdersPractice/actions/workflows/ci.yml/badge.svg)](https://github.com/Anastasiya-Evsyukova/OrdersPractice/actions/workflows/ci.yml)
+<img width="1230" height="763" alt="image" src="https://github.com/user-attachments/assets/6e8806ab-5b38-4c76-9d59-b5eff6a4143b" />[![CI](https://github.com/AIlanaKhomushku/OrdersPractice/actions/workflows/ci.yml/badge.svg)](https://github.com/AIlanaKhomushku/OrdersPractice/actions/workflows/ci.yml)
 
 Ссылка на репозиторий: 
 https://github.com/AIlanaKhomushku/OrdersPractice.git
