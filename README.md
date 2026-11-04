@@ -1,6 +1,7 @@
 [![CI](https://github.com/Anastasiya-Evsyukova/OrdersPractice/actions/workflows/ci.yml/badge.svg)](https://github.com/Anastasiya-Evsyukova/OrdersPractice/actions/workflows/ci.yml)
 
-Ссылка на репозиторий: https://github.com/Anastasiya-Evsyukova/OrdersPractice.git
+Ссылка на репозиторий: 
+https://github.com/AIlanaKhomushku/OrdersPractice.git
 <img width="784" height="462" alt="image" src="https://github.com/user-attachments/assets/f387abd8-489f-42aa-ac1f-7c6cc2e3cf3b" />
 <img width="886" height="135" alt="image" src="https://github.com/user-attachments/assets/9e330d10-ba05-48aa-926b-862bc3f9c57f" />
 
